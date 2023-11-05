@@ -7,7 +7,7 @@ Frontend:
   React + Vite
 
 # Development:
-Install Go ( 1.21.3 )
+[Install Go ( 1.21.3 )](https://go.dev/dl/)
 Install Node 15+
 
 # Running:
