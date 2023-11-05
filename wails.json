@@ -1,0 +1,18 @@
+{
+  "$schema": "https://wails.io/schemas/config.v2.json",
+  "name": "ytdl",
+  "outputfilename": "ytdl",
+  "frontend": {
+    "install": "npm install",
+    "build": "npm run build",
+    "dev:watcher": "npm run dev",
+    "dir": "frontend/dist",
+    "devserver": {
+      "url": "http://localhost:3000"
+    }
+  },
+  "author": {
+    "name": "",
+    "email": "valdez.sebastian4@gmail.com"
+  }
+}
